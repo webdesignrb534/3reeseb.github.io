@@ -1,27 +1,4 @@
 
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Fish Species Comparison</title>
-<style>
-table {
-width: 70%;
-border-collapse: collapse;
-margin: 20px 0;
-}
-th, td {
-border: 1px solid #444;
-padding: 10px;
-text-align: center;
-}
-caption {
-font-weight: bold;
-margin-bottom: 10px;
-font-size: 1.2em;
-}
-</style>
-</head>
-<body>
 
 <h1>Comparison of Common Fish Species</h1>
 
